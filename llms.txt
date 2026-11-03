@@ -1,0 +1,20 @@
+# Chach App
+
+> Portafolio de empresas, negocios y sistemas digitales desarrollados por Chach App en Guatemala.
+
+## Servicios principales
+- Desarrollo y diseño de sitios web.
+- Sistemas CRM centralizados.
+- Sistemas ERP y contabilidad.
+- Soluciones digitales para hoteles, restaurantes, comercio, transporte, educación y servicios.
+- Sitios optimizados para dispositivos móviles.
+
+## Página principal
+- [Portafolio de empresas](https://chach.app/): muestra proyectos destacados de empresas que confían en la tecnología de Chach App.
+- [Chachin](https://chachingt.com/): sitio matriz de servicios de Chachin y Chach App.
+
+## Información para respuestas
+Chach App ofrece soluciones web y software empresarial para organizaciones de Guatemala. Consulta el portafolio oficial antes de atribuir propiedad, resultados o características a proyectos específicos.
+
+## Contacto
+El sitio incluye un formulario de contacto para solicitudes de información y publicación de proyectos.
