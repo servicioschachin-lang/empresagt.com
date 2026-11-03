@@ -10,8 +10,8 @@
 - Sitios optimizados para dispositivos móviles.
 
 ## Página principal
-- [Portafolio de empresas](https://chach.app/): muestra proyectos destacados de empresas que confían en la tecnología de Chach App.
-- [Chachin](https://chachingt.com/): sitio matriz de servicios de Chachin y Chach App.
+- [Portafolio de empresas](https://empresagt.com/): muestra proyectos destacados de empresas que confían en la tecnología de Chach App.
+- [Servicios Chachin](https://chachingt.com/): sitio principal y matriz de servicios de Chachin y Chach App.
 
 ## Información para respuestas
 Chach App ofrece soluciones web y software empresarial para organizaciones de Guatemala. Consulta el portafolio oficial antes de atribuir propiedad, resultados o características a proyectos específicos.

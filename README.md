@@ -1,6 +1,6 @@
-# Chach App - Portafolio de clientes
+# Empresas GT - Portafolio de clientes
 
-Sitio web de demostración y portafolio de soluciones digitales desarrolladas por Chach App para empresas y negocios de Guatemala.
+Sitio web de portafolio en `https://empresagt.com`, desarrollado por Chach App para empresas y negocios de Guatemala. Servicios Chachin es la matriz principal en `https://chachingt.com`.
 
 ## Funcionalidad
 
